@@ -1,1 +1,3 @@
-![sololearn](https://user-images.githubusercontent.com/37961587/94254253-32db4c80-ff2f-11ea-852c-9f8f2c5d2383.png)
+
+![sololearnlogo](https://user-images.githubusercontent.com/37961587/94254411-6918cc00-ff2f-11ea-9edf-441b9757ea1e.jpg)
+
