@@ -3,9 +3,9 @@
 
 | Domain                                                                                                        |    Language(s)   | Solved/Total |
 |---------------------------------------------------------------------------------------------------------------|:----------------:|:------------:|
-| [JavaScript]()                                                 |      Node.js     |     25/25    |
-| [Java](https://www.sololearn.com/Play/Java)                    |      Java 8      |     64/64    |
-| [Python](https://www.sololearn.com/Profile/5159787/Python)     |     Python 3     |    91/115    |
-| [SQL]()                                                        |       MySQL      |     45/58    |
+| [JavaScript](https://www.sololearn.com/Play/Javascript)  |      Node.js     |        |
+| [Java](https://www.sololearn.com/Play/Java)              |      Java 8      |        |
+| [Python](https://www.sololearn.com/Play/Python)          |     Python 3     |        |
+| [SQL](https://www.sololearn.com/Play/SQL)                |       MySQL      |        |
 
 
